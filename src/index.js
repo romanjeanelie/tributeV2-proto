@@ -1,4 +1,4 @@
 import Sketch from "./js/sketch.js";
 
 new Sketch({ dom: document.getElementById("container") });
-console.log("Tribute to Beau");
+console.log("Tribute to Beau on Mac");
